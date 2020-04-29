@@ -2,7 +2,7 @@
 
 Rather than doing:
 
-	printf("0x%08X", 0x90);
+	printf("0x%X", 0x90);
 
 and getting 0x90
 
